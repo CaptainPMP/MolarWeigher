@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Arduino Read Data\Arduino Read Data\obj\Debug\Arduino Read Data.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Arduino Read Data\Arduino Read Data\obj\Debug\Arduino Read Data.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Arduino Read Data\Arduino Read Data\bin\Debug\Arduino Read Data.exe.config
+C:\Users\user\source\repos\Arduino Read Data\Arduino Read Data\bin\Debug\Arduino Read Data.exe
+C:\Users\user\source\repos\Arduino Read Data\Arduino Read Data\bin\Debug\Arduino Read Data.pdb
+C:\Users\user\source\repos\Arduino Read Data\Arduino Read Data\obj\Debug\Arduino Read Data.exe
+C:\Users\user\source\repos\Arduino Read Data\Arduino Read Data\obj\Debug\Arduino Read Data.pdb
